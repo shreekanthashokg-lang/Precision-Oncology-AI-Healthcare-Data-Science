@@ -1,0 +1,14 @@
+{
+  "note": "Quick smoke-test run (6 epochs, batch_size=32) on the real-curated-variant-derived dataset, run in a constrained CPU sandbox to verify the training pipeline actually works end-to-end. NOT a tuned final result -- run `python -m src.genomics.train` with the full config.yaml settings (20 epochs, early stopping) for a proper result, and consider expanding data/real/curated_real_cancer_variants.csv with more real variants for a less easily-overfit dataset.",
+  "epochs_run": 6,
+  "best_epoch": 1,
+  "final_epoch_val_metrics": {
+    "val_loss": 0.7120,
+    "accuracy": 0.5611,
+    "auc_roc": 0.6284,
+    "f1": 0.6393
+  },
+  "train_samples": 840,
+  "val_samples": 180,
+  "distinct_real_variants_behind_dataset": 30
+}

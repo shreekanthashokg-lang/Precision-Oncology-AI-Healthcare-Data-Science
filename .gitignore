@@ -1,0 +1,52 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (large / private — keep only download scripts and small samples in git)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Model weights
+models/*
+!models/.gitkeep
+!models/clinical_logreg.joblib
+*.pt
+*.pth
+*.ckpt
+*.h5
+# Note: models/clinvar_real_rf.joblib (~30MB) is intentionally left OUT of
+# git by this rule -- it's too large for a normal git repo. It IS included
+# in the distributed zip for immediate local use. For git/deployment, either
+# regenerate it with `python -m src.genomics.clinvar_real` (~1 minute) or
+# use Git LFS if you want to commit it directly.
+
+# Results (regenerate via scripts; keep folder structure)
+results/figures/*
+!results/figures/.gitkeep
+results/metrics/*
+!results/metrics/.gitkeep
+!results/metrics/wdbc_real_results.json
+!results/metrics/genomics_cnn_smoke_test.json
+results/logs/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Streamlit
+.streamlit/secrets.toml

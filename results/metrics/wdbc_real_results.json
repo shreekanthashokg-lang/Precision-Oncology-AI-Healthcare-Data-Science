@@ -1,0 +1,41 @@
+{
+  "logistic_regression": {
+    "accuracy": 0.9824561403508771,
+    "auc_roc": 0.9953703703703703,
+    "f1": 0.9861111111111112,
+    "precision": 0.9861111111111112,
+    "recall": 0.9861111111111112
+  },
+  "random_forest": {
+    "accuracy": 0.9473684210526315,
+    "auc_roc": 0.9937169312169313,
+    "f1": 0.9583333333333334,
+    "precision": 0.9583333333333334,
+    "recall": 0.9583333333333334
+  },
+  "n_train": 455,
+  "n_test": 114,
+  "n_features": 30,
+  "feature_importances_top5_rf": [
+    [
+      "worst perimeter",
+      0.13734428478768992
+    ],
+    [
+      "worst area",
+      0.13731177174182216
+    ],
+    [
+      "worst concave points",
+      0.11550196578453792
+    ],
+    [
+      "mean concave points",
+      0.09177420840591978
+    ],
+    [
+      "worst radius",
+      0.08411075324716967
+    ]
+  ]
+}

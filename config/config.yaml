@@ -1,0 +1,48 @@
+seed: 42
+
+paths:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  models_dir: "models"
+  results_dir: "results"
+
+vision:
+  dataset_name: "pcam"          # options: pcam, breakhis, colorectal
+  image_size: 96
+  batch_size: 64
+  num_workers: 4
+  backbone: "efficientnet_b0"   # options: efficientnet_b0, resnet50, vit_small_patch16_224
+  num_classes: 2
+  epochs: 15
+  lr: 3.0e-4
+  weight_decay: 1.0e-5
+  mixed_precision: true
+  early_stopping_patience: 4
+  scheduler: "cosine"           # options: cosine, step, plateau
+
+genomics:
+  seq_length: 200
+  kmer_size: 4
+  batch_size: 128
+  num_workers: 2
+  model_type: "cnn"              # options: cnn, transformer
+  embedding_dim: 64
+  num_classes: 2
+  epochs: 20
+  lr: 1.0e-3
+  weight_decay: 1.0e-5
+  early_stopping_patience: 5
+
+multimodal:
+  fusion_type: "late_concat"     # options: late_concat, correlation
+  hidden_dim: 128
+  epochs: 15
+  lr: 5.0e-4
+
+explainability:
+  gradcam_target_layer: "features.7"   # depends on backbone; see docs/architecture.md
+  num_examples_to_visualize: 8
+
+logging:
+  level: "INFO"
+  log_dir: "results/logs"
