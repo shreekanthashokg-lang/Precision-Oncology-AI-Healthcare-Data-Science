@@ -11,7 +11,7 @@
 
 ---
 
-## Why this project matters
+## WHY THIS PROJECT MATTERS 
 
 Precision oncology decisions increasingly draw on two very different kinds
 of evidence for the same patient: **what the tumor tissue looks like**
