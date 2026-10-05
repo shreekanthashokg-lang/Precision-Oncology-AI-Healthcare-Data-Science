@@ -131,7 +131,7 @@ credentials — see Quick Start below.
 
 ## INSTALLATION & QUICK START
 
-### 1. Clone and set up environment
+### 1. SET UP ENV & CLONE 
 
 ```bash
 git clone https://github.com/<your-username>/precision-oncology-ai.git
