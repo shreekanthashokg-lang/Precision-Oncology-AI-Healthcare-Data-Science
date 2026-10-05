@@ -45,7 +45,7 @@ explainability for both branches — wrapped in a Streamlit demo app.
   zero external downloads or credentials; the vision branch defaults to a
   small, no-auth-required public histology dataset.
 
-## Architecture
+## COMPLETE PROJECT ARCHITECTURE
 
 ```mermaid
 flowchart LR
