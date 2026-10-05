@@ -165,7 +165,7 @@ python -m src.genomics.clinvar_real
 Trains on the real 65,188-row ClinVar dataset (`data/real/clinvar_conflicting_real_65k.csv`)
 in under a minute on CPU and saves the deployed model artifact.
 
-**Genomics — sequence branch, real-curated variants (no downloads needed):**
+**Genomics — Sequence Branch, Real-Curated Variants (no downloads needed):**
 
 ```bash
 python data/scripts/download_genomics.py --mode real_curated
