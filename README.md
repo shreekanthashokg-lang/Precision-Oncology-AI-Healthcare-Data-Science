@@ -182,7 +182,7 @@ python data/scripts/preprocess.py --task vision                  # auto-detects 
 A smaller, no-credentials-needed option (`--dataset colorectal`) is also
 available for a quick smoke test.
 
-### 3. Train
+### 3. TRAINING
 
 ```bash
 python -m src.vision.train      # trains and saves models/vision_best.pt
