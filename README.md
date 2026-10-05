@@ -87,7 +87,7 @@ what this project actually ships and reports numbers for. See
 citation-backed variant list, and re-verify against a live ClinVar/COSMIC
 query before using these labels for anything beyond a demo.
 
-## Results
+## OUTPUT RESULTS
 
 **🧬 Genomics, large-scale — real, measured, on 65,188 real ClinVar variants:**
 
