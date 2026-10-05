@@ -115,7 +115,7 @@ exact dataset, not cherry-picked.)
 `results/metrics/wdbc_real_results.json`. Reproduce with
 `python -m src.clinical.wisconsin`.)
 
-**🧬 Genomics, sequence branch (CNN/Transformer) — honest smoke-test result:**
+**🧬 GENOMICS, SEQUENCE Branch (CNN/Transformer) — honest smoke-test result:**
 
 A 6-epoch CPU smoke test on the real-curated-variant dataset (840 train /
 180 val samples derived from 30 real cited variants) reached val accuracy
