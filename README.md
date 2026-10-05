@@ -147,7 +147,7 @@ conda env create -f environment.yml
 conda activate precision-oncology-ai
 ```
 
-### 2. Prepare data
+### 2. DATA PREPARATION
 
 **Clinical (real data, no downloads needed):**
 
