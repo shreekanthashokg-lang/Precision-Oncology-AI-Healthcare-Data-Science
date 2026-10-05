@@ -129,7 +129,7 @@ against the real PCam file layout — `train_labels.csv` + `.tif` files) but
 untrained until you pull the real image data with your own Kaggle
 credentials — see Quick Start below.
 
-## Installation & Quick Start
+## INSTALLATION & QUICK START
 
 ### 1. Clone and set up environment
 
