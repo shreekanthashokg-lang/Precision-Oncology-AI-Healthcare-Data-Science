@@ -25,7 +25,7 @@ range: a CNN/ViT histopathology classifier, a CNN/Transformer genomic
 variant classifier, a multimodal late-fusion head, and Grad-CAM/attention
 explainability for both branches — wrapped in a Streamlit demo app.
 
-## Key features
+## KEY FEATURES
 
 - 🔬 **Histopathology branch**: EfficientNet-B0 / ResNet50 / ViT (via
   `timm`), trained with mixed precision, cosine/step/plateau LR scheduling,
