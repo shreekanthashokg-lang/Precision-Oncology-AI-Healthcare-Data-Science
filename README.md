@@ -193,7 +193,7 @@ Both scripts read all hyperparameters from [`config/config.yaml`](config/config.
 edit that file (backbone choice, image size, epochs, learning rate, etc.)
 rather than passing CLI flags.
 
-For the multimodal fusion head, see
+FOR THE MULTIMODAL FUSION HEAD, SEE
 [`notebooks/05_multimodal_fusion.ipynb`](notebooks/05_multimodal_fusion.ipynb).
 
 ### 4. RUNING THE STREAMILTE APP
