@@ -218,7 +218,7 @@ Cloud (or Hugging Face Spaces / Docker) with no code changes — see
 [`docs/deployment.md`](docs/deployment.md) for step-by-step instructions,
 including which branches work immediately vs. need one training run first.
 
-## Project structure
+## PROJECT STRUCTURE
 
 ```
 precision-oncology-ai/
