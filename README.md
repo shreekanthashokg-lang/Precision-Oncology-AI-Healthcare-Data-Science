@@ -89,7 +89,7 @@ query before using these labels for anything beyond a demo.
 
 ## OUTPUT RESULTS
 
-**🧬 Genomics, large-scale — real, measured, on 65,188 real ClinVar variants:**
+**🧬 GENOMICS, LARGE SCALES — real, measured, on 65,188 real ClinVar variants:**
 
 | Model | Accuracy | AUC-ROC | F1 |
 |---|---|---|---|
