@@ -70,7 +70,7 @@ write-up of each branch.
 
 ## Real data — what's genuinely real vs. synthetic, and why
 
-Being upfront about this matters for a portfolio project:
+BEING UPFRONT ABOUT THIS MATTERS FOR A PORTFOLIO PROJECTS :
 
 | Branch | Data | Status |
 |---|---|---|
