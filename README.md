@@ -196,7 +196,7 @@ rather than passing CLI flags.
 For the multimodal fusion head, see
 [`notebooks/05_multimodal_fusion.ipynb`](notebooks/05_multimodal_fusion.ipynb).
 
-### 4. Run the Streamlit app
+### 4. RUNING THE STREAMILTE APP
 
 ```bash
 streamlit run app/streamlit_app.py
