@@ -149,7 +149,7 @@ conda activate precision-oncology-ai
 
 ### 2. DATA PREPARATION
 
-**Clinical (real data, no downloads needed):**
+**Clinical (REAL DATA, no downloads needed):**
 
 ```bash
 python -m src.clinical.wisconsin
