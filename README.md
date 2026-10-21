@@ -7,7 +7,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-app-ff4b4b)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-> 🔗 **Live demo:** _add your deployed Streamlit Cloud / HF Spaces link here after deployment_
+> 🔗 **Live demo:**  deployed ON MY Streamlit Cloud / HF Spaces link here after deployment_
 
 ---
 
