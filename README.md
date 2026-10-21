@@ -157,7 +157,7 @@ python -m src.clinical.wisconsin
 This trains and evaluates on the real Wisconsin Diagnostic Breast Cancer
 dataset in under a second and saves the deployed model artifact.
 
-**Genomics — large-scale real ClinVar (no downloads needed, already in the repo):**
+**Genomics — large-scale real ClinVar (no downloads needed, already in MY REPOSITORY):**
 
 ```bash
 python -m src.genomics.clinvar_real
