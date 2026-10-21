@@ -65,7 +65,7 @@ flowchart LR
     J --> K[Fused Prediction]
 ```
 
-See [`docs/architecture.md`](docs/architecture.md) for the full technical
+See [`docs/architecture.md`](docs/architecture.md) FOR THE FULL TECHNICAL
 write-up of each branch.
 
 ## Real data — what's genuinely real vs. synthetic, and why
