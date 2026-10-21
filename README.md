@@ -211,7 +211,7 @@ Or run steps 1–4 in one shot:
 (`make install`, `make preprocess`, `make train`, `make app` also work — see
 the [`Makefile`](Makefile).)
 
-## Deployment
+## DEPLOYMENT
 
 This repo is pre-configured to deploy straight to Streamlit Community
 Cloud (or Hugging Face Spaces / Docker) with no code changes — see
