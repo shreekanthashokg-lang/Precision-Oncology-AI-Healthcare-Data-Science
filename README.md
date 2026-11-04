@@ -68,7 +68,7 @@ flowchart LR
 See [`docs/architecture.md`](docs/architecture.md) FOR THE FULL TECHNICAL
 write-up of each branch.
 
-## Real data — what's genuinely real vs. synthetic, and why
+## REAL Data— WHAT'S GENUINELY REAL vs. SYNTHETIC, AND WHY 
 
 BEING UPFRONT ABOUT THIS MATTERS FOR A PORTFOLIO PROJECTS :
 
