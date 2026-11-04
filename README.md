@@ -278,8 +278,8 @@ implementation referencing:
 - **PathAI, Tempus, Foundation Medicine** — industry context for
   precision-oncology AI applications
 
-This is an independent educational/portfolio project and is not affiliated
-with or endorsed by any of the above organizations.
+THIS is an INDEPENDENT EDUCATIONAL/PORTFOLIO PROJECT and is not AFFILIATED 
+with or ENDORSED by any of the ABOVE ORGANIZATIONS.
 
 ## License
 
