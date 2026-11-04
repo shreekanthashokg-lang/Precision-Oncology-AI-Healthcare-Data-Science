@@ -276,7 +276,7 @@ implementation referencing:
 - **PatchCamelyon (PCam)** and **BreakHis** — public histopathology
   benchmark datasets
 - **PathAI, Tempus, Foundation Medicine** — industry context for
-  precision-oncology AI applications
+  Precision-Oncology-AI-Healthcare-Data-Science AI APPLICATIONS 
 
 THIS is an INDEPENDENT EDUCATIONAL/PORTFOLIO PROJECT and is not AFFILIATED 
 with or ENDORSED by any of the ABOVE ORGANIZATIONS.
