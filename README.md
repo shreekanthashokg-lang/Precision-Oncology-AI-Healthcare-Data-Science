@@ -79,7 +79,7 @@ BEING UPFRONT ABOUT THIS MATTERS FOR A PORTFOLIO PROJECTS :
 | 🧬 Genomics — sequence branch (`data/real/curated_real_cancer_variants.csv`) | ~30 real, literature-documented cancer variants (gene, HGVS notation, ClinVar-style significance) across BRCA1/2, TP53, EGFR, KRAS, and more | ✅ Real variant identity & labels; ⚠️ surrounding DNA sequence is synthetic filler (no reference genome bundled — see `docs/architecture.md`) |
 | 🔬 Vision | PatchCamelyon via the real Kaggle "Histopathologic Cancer Detection" competition (327,680 real 96x96 patches) | ⚠️ Real, and the pipeline auto-detects its exact format — but it's gated behind a free Kaggle account, so it isn't embedded in this repo. `data/scripts/download_histopathology.py --dataset pcam` prints the exact commands. |
 
-The genomics `synthetic` mode (fully random sequences) is still available
+THE GENOMICS `synthetic` MODE (fully random sequences) is STILL AVAILABLE 
 as a fallback/stress-test option, but the two real sources above
 (`clinvar_real` for scale, `real_curated` for sequence-level demos) are
 what this project actually ships and reports numbers for. See
