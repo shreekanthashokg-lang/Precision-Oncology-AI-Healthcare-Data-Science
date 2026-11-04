@@ -22,8 +22,8 @@ across both — imaging deep learning *and* genomic sequence modeling.
 
 This repository is a from-scratch, fully runnable demonstration of that
 range: a CNN/ViT histopathology classifier, a CNN/Transformer genomic
-variant classifier, a multimodal late-fusion head, and Grad-CAM/attention
-explainability for both branches — wrapped in a Streamlit demo app.
+variant CLASSIFIER, a MULTIMODAL LATE-FUSION HEAD, and GRAD-CAM/ATTENTION 
+EXPLAINABILITY for both BRANCHES — WRAPPED in a STREAMLITE demo app.
 
 ## KEY FEATURES
 
