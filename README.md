@@ -287,7 +287,7 @@ MIT — see [LICENSE](LICENSE).
 
 ## Disclaimer
 
-This project uses public and/or synthetic data and reports placeholder
-performance numbers until you train it yourself. It is a **portfolio /
+THIS PROJECT USES public AND/or SYNTHETIC data and REPORTS PLACEHOLDER 
+PERFORMANCE NUMBERS UNTIL YOU TRAIN it YOURSELF. It is a **portfolio /
 educational demonstration only** and is not validated for, nor intended
 for, clinical or diagnostic use.
