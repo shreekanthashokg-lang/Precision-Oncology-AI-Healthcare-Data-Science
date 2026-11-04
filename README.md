@@ -263,7 +263,7 @@ real patient-matched multimodal data (e.g. TCGA), whole-slide-image
 tiling with MIL, Transformer pretraining, and productionization
 (Docker, CI, experiment tracking).
 
-## Citation / Inspiration
+## CITATION / INSPIRATION
 
 This project is inspired by concepts from, and intended as an educational
 implementation referencing:
