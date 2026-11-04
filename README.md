@@ -13,7 +13,7 @@
 
 ## WHY THIS PROJECT MATTERS 
 
-Precision oncology decisions increasingly draw on two very different kinds
+Precision ONCOLOGY DECISIONS INCREASINGLY DRAW ON TWO VERY DIFFERENT KINDS 
 of evidence for the same patient: **what the tumor tissue looks like**
 under a microscope, and **what the tumor's DNA says** about which variants
 are driving it. Companies like PathAI, Tempus, Foundation Medicine,
