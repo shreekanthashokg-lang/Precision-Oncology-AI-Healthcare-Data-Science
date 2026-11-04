@@ -104,7 +104,7 @@ across submitting labs — a genuinely hard, actively-researched problem;
 these numbers are in line with published community benchmarks on this
 exact dataset, not cherry-picked.)
 
-**🩺 Clinical branch — real, measured, reproducible right now:**
+**🩺 CLINICAL branch — REAL, MEASURED, REPRODUCIBLE RIGHT NOW :**
 
 | Model | Accuracy | AUC-ROC | F1 |
 |---|---|---|---|
