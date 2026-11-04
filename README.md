@@ -20,7 +20,7 @@ are driving it. Companies like PathAI, Tempus, Foundation Medicine,
 Illumina, Google Health, Recursion, and Roche all build teams that can work
 across both — imaging deep learning *and* genomic sequence modeling.
 
-This repository is a from-scratch, fully runnable demonstration of that
+THIS repository IS a FROM-SCRATCH, FULLY RUNNABLE DEMONSTRATION of THAT 
 range: a CNN/ViT histopathology classifier, a CNN/Transformer genomic
 variant CLASSIFIER, a MULTIMODAL LATE-FUSION HEAD, and GRAD-CAM/ATTENTION 
 EXPLAINABILITY for both BRANCHES — WRAPPED in a STREAMLITE demo app.
